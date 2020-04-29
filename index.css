@@ -2,10 +2,18 @@ html {
   background-color: black;
 }
 
-h-count {
+#h-count {
 	color: white;
 	text-align: center;
+}
 
+#h-click {
+	color: white;
+	text-align: center;
+}
+#h {
+	color: white;
+	text-align: center;
 }
 
 
